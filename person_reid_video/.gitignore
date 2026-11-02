@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.pip-cache-cuda/
+.tmp-cuda-setup/
+yolov8n.pt
+yolov8s.pt
+weights/
+outputs/
+data/gallery/
